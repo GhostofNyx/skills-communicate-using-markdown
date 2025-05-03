@@ -1,4 +1,3 @@
 # YO
 ###### yoyoyo
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-hi guys
